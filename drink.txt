@@ -1,6 +1,6 @@
 computer
 cellphone
 printer
-apple
-banana
-milk
+ apple
+ banana
+ milk
