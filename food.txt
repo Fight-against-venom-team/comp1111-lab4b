@@ -1,6 +1,6 @@
 food
 fruit
 drink
-strawberryyyyyyyy
-cherryyyyyyyyyyyy
-pineappleeeeeeeee
+strawberry
+cherry
+pineapple
