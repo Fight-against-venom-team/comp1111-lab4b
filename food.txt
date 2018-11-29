@@ -1,3 +1,6 @@
 food
 fruit
 drink
+strawberry
+cherry
+pineapple
