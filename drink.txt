@@ -1,6 +1,9 @@
-computer
+computer desk
 cellphone
 printer
  apple
- banana
+ banana 
  milk
+ water
+ apple juice
+ orange juice 
