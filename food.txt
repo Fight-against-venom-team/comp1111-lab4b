@@ -4,3 +4,6 @@ drink
 strawberry
 cherry
 pineapple
+strawberry
+cherry
+apple
