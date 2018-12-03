@@ -2,6 +2,6 @@ computer
 cellphone
 drink water
 
-appleee
-bananaee
-milkee
+apple
+banana
+milk
